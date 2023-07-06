@@ -2,6 +2,8 @@
 using namespace std;
 
 int x = 0;
+int y = 0;
+int z = 0;
 
 void fun(void) {
 	int y = 0;
